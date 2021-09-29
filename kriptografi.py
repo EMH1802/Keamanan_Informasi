@@ -8,7 +8,7 @@ abjad = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
 
 
 def ekripsi(abjad):
-    str = input("Kata : ")
+    str = input("Teks : ")
     key = int(input("Key : "))
 
     str = str.lower()
@@ -27,7 +27,7 @@ def ekripsi(abjad):
 
 
 def dekripsi(abjad):
-    str = input("Kata : ")
+    str = input("Teks : ")
     key = int(input("Key : "))
 
     str = str.lower()
