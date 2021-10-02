@@ -36,8 +36,8 @@ def dekripsi(abjad):
     for char in str:
         if char in abjad:
             n = abjad.index(char)
-            dencrypt = (n + key) % 26
-            convert = abjad[dencrypt]
+            decrypt = (n + key) % 26
+            convert = abjad[decrypt]
             result = result + convert
         else:
             result = result + ''
