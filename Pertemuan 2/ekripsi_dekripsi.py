@@ -58,7 +58,7 @@ while (pilihan == 'y'):
 
     if menu == '1':
         print("Menu Enkripsi Data")
-        ekripsi(abjad)
+        enkripsi(abjad)
     elif menu == '2':
         print("Menu Dekripsi Data")
         dekripsi(abjad)
