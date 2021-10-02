@@ -7,7 +7,7 @@ abjad = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l',
          'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 
-def ekripsi(abjad):
+def enkripsi(abjad):
     str = input("Teks : ")
     key = int(input("Key : "))
 
@@ -49,7 +49,7 @@ pilihan = 'y'
 
 while (pilihan == 'y'):
     print("Menu Pilihan : ")
-    print("1. Ekripsi")
+    print("1. Enkripsi")
     print("2. Dekripsi")
     print("3. Keluar")
 
@@ -57,10 +57,10 @@ while (pilihan == 'y'):
     print("-------------------------------------")
 
     if menu == '1':
-        print("Menu Ekripsi Data")
+        print("Menu Enkripsi Data")
         ekripsi(abjad)
     elif menu == '2':
-        print("Menu Dkripsi Data")
+        print("Menu Dekripsi Data")
         dekripsi(abjad)
     elif menu == '3':
         print("Keluar Dari Program")
