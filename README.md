@@ -9,3 +9,4 @@
   - [Public](https://github.com/EMH1802/Keamanan_Informasi/blob/main/Pertemuan%202/public.pem)
 - [UTS](https://github.com/EMH1802/Keamanan_Informasi/tree/main/UTS)
   - [Private](https://github.com/EMH1802/Keamanan_Informasi/blob/main/UTS/private.pen)
+  - [MySql Injections](https://github.com/EMH1802/Keamanan_Informasi/tree/main/UTS/MySql%20Injections)
