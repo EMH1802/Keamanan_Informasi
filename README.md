@@ -7,3 +7,5 @@
   - [Enkripsi & Dekripsi](https://github.com/EMH1802/Keamanan_Informasi/blob/main/Pertemuan%202/enkripsi_dekripsi.py)
   - [Private](https://github.com/EMH1802/Keamanan_Informasi/blob/main/Pertemuan%202/private.pem)
   - [Public](https://github.com/EMH1802/Keamanan_Informasi/blob/main/Pertemuan%202/public.pem)
+- [UTS](https://github.com/EMH1802/Keamanan_Informasi/tree/main/UTS)
+  - [Private](https://github.com/EMH1802/Keamanan_Informasi/blob/main/UTS/private.pen)
